@@ -29,7 +29,6 @@
 	12. fetch
 	13. pull
 	14. push
-	15. tagconfig
 
 4. Other essentials 	
 	1. Branching
