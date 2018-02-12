@@ -29,9 +29,36 @@
 	12. fetch
 	13. pull
 	14. push
+	15. tag
+	16. config
+
+---
 
 4. Other essentials 	
 	1. Branching
 	2. Merging
 	3. Resolve Merge conflict
 	4. HEAD
+
+5. Git workflows
+	1. Centralized 
+	2. Distributed
+
+6. Some other useful topics
+	1. show
+	2. tag
+	3. alias
+	4. fork
+	5. pull request
+	6. remote
+	7. config
+	8. .gitignore
+	9. log --pretty
+
+7. Advance git commands
+	1. Reset 
+	2. revert
+	3. Stash
+	4. Blame	
+	5. Cherrypick
+	
