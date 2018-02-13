@@ -61,4 +61,32 @@
 	3. Stash
 	4. Blame	
 	5. Cherrypick
+
+---
+
+8. Git Player
+	1. Git hub	
+	2. Git lab	
+	3. Bitbucket	
+	4. Gitolite	
+	5. Comparision beetween hosting solutions(Github, Gitlab, Bitbucket, Gitolite)	
 	
+9. Management	
+	1. Team  
+	2. Organization
+	3. Users
+	4. Repositories
+	5. Deploy keys
+	6. Webhooks
+
+
+10. Authorization & Permissions    
+	1. Best possible practices
+
+11. Good to know: Advance git concept
+        1. Integration	  
+    	  a. Jira Integration    
+    	  b. Slack Integration      	
+        2. Objects  
+        3. git submodules	  
+
