@@ -13,10 +13,10 @@ Assignment3:
 * Create a freestyle job to which take absolute path of a directory then
      1. List all files and directories inside that. 
      2. Print a message "drectory not exist" if directory doesn't exist on file system
-     2. Print "Inappropriate permissions" if you dont have permissions to list files. 
+     3. Print "Inappropriate permissions" if you don't have permissions to list files. 
 * Create a job to clone your jenkins repo and cat a file from it. 
 * Create tag using git plugin.
 
 Assignment4:
-* Increase and decrease number of executers and observe the build queue.
+* Increase and decrease number of executors and observe the build queue.
  

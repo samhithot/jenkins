@@ -13,6 +13,9 @@
 	1. Basics to Jobs
 	2. Types of jobs
 	3. Build history
-	4. Parametarized jobs
-	5. Executers
- 
+	4. Parameterized jobs
+	5. Executors
+
+4. Views
+	1. List view
+	2. Nested view 
