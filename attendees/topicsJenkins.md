@@ -19,3 +19,24 @@
 4. Views
 	1. List view
 	2. Nested view 
+
+---
+
+5. Jenkins Authentication & Authorization	
+	1. Basic authentication & Authorization
+		1. Security Realm
+		2. Authorization Strategy   
+	2. User database
+	3. Matrix based security
+	4. Project based security
+	5. 3rd party integrations (AD & SSO)
+	6. Credentials
+	7. Key security concepts
+ 
+
+6. Notification in Jenkins	
+	1. Email
+	2. Slack
+
+7. Distributed jenkins setup  
+	1. Master slave setup 
