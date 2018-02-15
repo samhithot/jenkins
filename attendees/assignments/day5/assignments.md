@@ -14,7 +14,7 @@ Assignment2:
 * Send jenkins console logs in mail not as attachement but as plain text. 
 * Enable slack integration for jenkins jobs build notifications.
 
-* Assignment3: 
+Assignment3: 
 * Add a slave to your jenkins, restrict some of the job to your slave. 
 
 
