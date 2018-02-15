@@ -29,9 +29,10 @@
 	2. User database
 	3. Matrix based security
 	4. Project based security
-	5. 3rd party integrations (AD & SSO)
-	6. Credentials
-	7. Key security concepts
+	5. Role based security
+	6. 3rd party integrations (AD & SSO)
+	7. Credentials
+	8. Key security concepts
  
 
 6. Notification in Jenkins	
