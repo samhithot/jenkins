@@ -40,4 +40,20 @@
 	2. Slack
 
 7. Distributed jenkins setup  
-	1. Master slave setup 
+	1. Master slave setup
+
+---
+
+8. Continuous Integration in Jenkins	
+	1. Code Stability
+	2. Unit Testing
+	3. Code Coverage
+	4. Code Quality
+
+9. Introduction to CD
+	1. Implementing CD in Jenkins
+	2. Deployment Script
+	3. Database updates
+	4. Rolling Back Changes
+	5. Deployment of package base (java etc) applicaiton 
+
