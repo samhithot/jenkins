@@ -44,7 +44,7 @@
 * Assignment6:
 	1. Configure nginx in a way so that it can serve
 		1. static file (index.html) at http://<your-machine-ip>
-		2. java application (Spring3HibernateApp) at http://<your-machine-ip>/Spring3HibernateApp/
+		2. java application (Spring3HibernateApp) at http://<your-machine-ip>/Spring3HibernateApp/  
 		Hint: Add another location (Spring3HibernateApp/) and proxy_pass details in your nginx configireation. 
 
  
