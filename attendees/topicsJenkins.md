@@ -55,5 +55,6 @@
 	2. Deployment Script
 	3. Database updates
 	4. Rolling Back Changes
-	5. Deployment of package base (java etc) applicaiton 
-
+	5. Different deployment strategies
+	6. Deployment of package base (java etc) applicaiton 
+	7. Script base application (PHP,RUBY,PYTHON) 
