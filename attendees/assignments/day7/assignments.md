@@ -39,4 +39,12 @@
 		3. This job and code-stability (job from 6th day assignmnet) will  have common workspace.
 	5. Deploy Spring3HibernateApp.war into tomcat7 (pick from workspace, copy into webapp of tomcat)
 
+	6. Verify you can acecess http://<your-machine-ip>:8080/Spring3HibernateApp/
+
+* Assignment6:
+	1. Configure nginx in a way so that it can serve
+		1. static file (index.html) at http://<your-machine-ip>
+		2. java application (Spring3HibernateApp) at http://<your-machine-ip>/Spring3HibernateApp/
+		Hint: Add another location (Spring3HibernateApp/) and proxy_pass details in your nginx configireation. 
+
  
