@@ -47,4 +47,15 @@
 		2. java application (Spring3HibernateApp) at http://<your-machine-ip>/Spring3HibernateApp/  
 		Hint: Add another location (Spring3HibernateApp/) and proxy_pass details in your nginx configireation. 
 
+
+---
+
+* Assignment7:  
+	1. Deploy a demo node application
+		1. Fork [node-js-sample](https://github.com/OpsTree/node-js-sample) repo into your account  
+		2. Create a jenkins job to build node code and create a tar file(artifact)  
+		3. Stop already application, Deploy tar file on a target server and start application again.
+		Hint: Use pm2 to start and stop node process (process management)  
+	
+
  

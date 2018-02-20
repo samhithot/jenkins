@@ -58,3 +58,8 @@
 	5. Different deployment strategies
 	6. Deployment of package base (java etc) applicaiton 
 	7. Script base application (PHP,RUBY,PYTHON) 
+
+---
+
+10. Automated Jenkins setup (Jenkins Infra as Code)
+	1. Jenkins jobs as code (Job DSL)
