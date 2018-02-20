@@ -1,7 +1,7 @@
 # Assignments 
 
 * Prerequisite: Install Job DSL (job-dsl)[https://plugins.jenkins.io/job-dsl] plugin first.  
-* *Ref Doc: (job-dsl pluign doc)[https://jenkinsci.github.io/job-dsl-plugin/]  
+* *Ref Doc: (job-dsl pluign doc)[https://jenkinsci.github.io/job-dsl-plugin/]*    
 
 
 * Assignment1:  
@@ -31,7 +31,7 @@
 * Assignment3:
 	1. Write Job DSL to Setup CI/CD (Nodejs app) Jobs 
 		1. nodeapp-tagcreation Job  
-		2. nodeapp-build Job (This will build (download dependency and create tar package) nodejs sample app code from (node-js-sample)[https://github.com/OpsTree/node-js-sample]).  
-		3. nodeapp-deploy Job (Check assignmnet 7 of (day7)[https://github.com/ot-training/jenkins/blob/master/attendees/assignments/day7/assignments.md#assignments] for more details).  
+		2. nodeapp-build Job (This will build (download dependency and create tar package) nodejs sample app code from [node-js-sample](https://github.com/OpsTree/node-js-sample)).  
+		3. nodeapp-deploy Job (Check assignmnet 7 of [day7](https://github.com/ot-training/jenkins/blob/master/attendees/assignments/day7/assignments.md#assignments) for more details).  
 	
      	
