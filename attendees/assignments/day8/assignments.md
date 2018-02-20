@@ -1,7 +1,7 @@
 # Assignments 
 
-* Prerequisite: Install Job DSL (job-dsl)[https://plugins.jenkins.io/job-dsl] plugin first.  
-* *Ref Doc: (job-dsl pluign doc)[https://jenkinsci.github.io/job-dsl-plugin/]*    
+* Prerequisite: Install Job DSL [job-dsl](https://plugins.jenkins.io/job-dsl) plugin first.  
+* *Ref Doc: [job-dsl pluign doc](https://jenkinsci.github.io/job-dsl-plugin/)*    
 
 
 * Assignment1:  
