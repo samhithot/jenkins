@@ -63,3 +63,4 @@
 
 10. Automated Jenkins setup (Jenkins Infra as Code)
 	1. Jenkins jobs as code (Job DSL)
+	2. Jenkins code pipeline
