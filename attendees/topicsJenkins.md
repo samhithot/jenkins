@@ -64,3 +64,15 @@
 10. Automated Jenkins setup (Jenkins Infra as Code)
 	1. Jenkins jobs as code (Job DSL)
 	2. Jenkins code pipeline
+
+---
+11. Master Slave
+        1. Theory
+        2. Components
+        3. The Master Starts the Slave Agent Using SSH
+        4. Starting the Slave Agent Manually Using Java Web Start
+
+12. Jenkins REST API
+        1. Interact with rest API
+        2. Use case for rest API
+        3. Using REST API to trigger jobs remotely, access job status, create/delete jobs
