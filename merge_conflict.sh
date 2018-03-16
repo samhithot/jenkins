@@ -1,5 +1,4 @@
 #!/bin/bash
-#!/bin/bash
 echo "Enter the Directory Location:"
 read dir
 mkdir -p $dir 
@@ -14,6 +13,7 @@ git commit -m "1st commit for git bash script"
 git push -u amulya master
 git branch branch1
 git commit -m "New branch added"
+git push -u amulya branch1
 git checkout  branch1
 echo "Enter second code :"
 read input
