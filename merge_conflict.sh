@@ -11,7 +11,7 @@ cd $dir
 git add $file
 git commit -m "1st commit for git bash script"
 git push -u amulya master
-git branch branch2
+git branch branch1
 git commit -m "New branch added"
 git push -u amulya branch1
 git checkout  branch1
