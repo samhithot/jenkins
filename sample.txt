@@ -1,1 +1,1 @@
-Hey Guyz plz check and verify my script
+Hey team  i am writing a shell script for merge conflict resolution plz check and verify
