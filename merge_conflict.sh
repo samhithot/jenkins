@@ -21,7 +21,7 @@ echo "$in2" > $file
 echo "$in3" > $file
 git commit -a -m "first commit on branch"
 git checkout master
-git merge branch1
+git merge branch3
 git mergetool
 git commit -a -m "resolved conflict"
 git push -u amulya branch3
