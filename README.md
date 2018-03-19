@@ -16,7 +16,7 @@ Here i am using megetool namely vimdiff inorder to merge  the task
  #Clone a particular folder from a remote repo.
  
  Ans - 
-       git clone <url> <foldername>
+       git clone urlname foldername
        
        git clone https://github.com/apmalla/bootcamp data
   data is directory in in the remote repo bootcamp
