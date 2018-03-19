@@ -9,5 +9,5 @@ git remote show bootcamp
 git fetch
 echo "Enter the branch you want to checkout"
 read br
-git checkout -b $br bootcamp/$br && git branch
+git checkout -b bootcamp/$br && git branch
 
