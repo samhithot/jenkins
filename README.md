@@ -10,8 +10,11 @@ Here i am using megetool namely vimdiff inorder to merge  the task
  #Creating multiple branch namely br1,branch1,branch2,branch3 & branch4 , adding diffrent code into them 
  
  #Create a script to clone remote repo and check out all existing remote branch.
+  
   Ans - clone_script.sh
+ 
  #Clone a particular folder from a remote repo.
+ 
  Ans - 
        git clone <url> <foldername>
        
