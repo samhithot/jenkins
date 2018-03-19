@@ -36,3 +36,4 @@ Ans - in public repo by default access is https & ssh
        git clone ssh://git@github.com:apmalla/opstree.git
  
  But incase of private repo we have to copy our public key into our github account & using private key we acess it 
+ Goto setting > add ssh & gpg keys > here we generate ssh key or paste our server key which was generate using ssh-keygen
