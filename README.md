@@ -16,6 +16,7 @@ Here i am using megetool namely vimdiff inorder to merge  the task
  #Clone a particular folder from a remote repo.
  
  Ans - 
+       
        git clone urlname foldername
        
        git clone https://github.com/apmalla/bootcamp data
@@ -27,7 +28,11 @@ Assignment2:
 
 Ans - in public repo by default access is https & ssh 
   
- using https -  git clone https://github.com/apmalla/opstree.git
- using ssh -    git clone ssh://git@github.com:apmalla/opstree.git
+ using https -  
+ 
+         git clone https://github.com/apmalla/opstree.git
+ using ssh -    
+ 
+       git clone ssh://git@github.com:apmalla/opstree.git
  
  But incase of private repo we have to copy our public key into our github account & using private key we acess it 
