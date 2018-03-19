@@ -3,7 +3,8 @@
 giturl=https://github.com/apmalla/bootcamp.git
 echo "Enter the Directory Location to clone"
 read dir
-cd $dir && git clone $git_url && ls -l
+cd $dir 
+git clone $git_url && ls -l
 git remote show bootcamp
 git fetch
 echo "Enter the branch you want to checkout"
