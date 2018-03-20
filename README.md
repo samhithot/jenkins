@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Assignment 1 : 
 # I am creating a script namely merge_conflict.sh has been created in branch4  as per the direction of saurabh sir i am generating a pull request in order to verify stability of my code then i will merge that code into my master branch . 
 Here i am using megetool namely vimdiff inorder to merge  the task 
@@ -37,3 +38,7 @@ Ans - in public repo by default access is https & ssh
  
  But incase of private repo we have to copy our public key into our github account & using private key we acess it 
  Goto setting > add ssh & gpg keys > here we generate ssh key or paste our server key which was generate using ssh-keygen
+=======
+# jenkins
+A training repo for Jenkins
+>>>>>>> remotes/parent/jobdsl
